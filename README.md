@@ -149,4 +149,4 @@ print(selected_features_f)
 
 
 # RESULT:
-        We have successfully performed Feature Scaling and Feature Selection process in the given file.
+        We have successfully performed Feature Scaling and Feature Selection process in the given data.
